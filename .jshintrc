@@ -1,6 +1,7 @@
 {
   "bitwise": true,
   "camelcase": true,
+  "esnext": true,
   "eqeqeq": true,
   "immed": true,
   "latedef": true,
